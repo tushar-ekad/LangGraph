@@ -1,2 +1,3 @@
-# venv and .env
-*env*
+.venv
+.env
+.ipynb_checkpoints/
